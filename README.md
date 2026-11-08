@@ -1,5 +1,5 @@
 USTH Information Systems 2026
 =============================
 
-* Your name here
-* Your ID here
+Nguyễn Ngọc Châm
+2640065
